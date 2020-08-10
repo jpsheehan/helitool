@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">HeliRig Tool</string>
+    <string name="tab_text_1">Tab 1</string>
+    <string name="tab_text_2">Tab 2</string>
+    <string name="reset">Reset</string>
+    <string name="dialogPrompt">Are you sure you want to reset this heli rig?</string>
+    <string name="cancel">Cancel</string>
+    <string name="telnetSuccess">Sent reset command!</string>
+    <string name="telnetFailure">Could not send command!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
